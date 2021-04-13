@@ -1,27 +1,27 @@
 # Lab3Web
 Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata kuliah Pemrograman Web
 
-[1] Berikut adalah tampilan codingan awal untuk membuat dokumen HTML
+1. [MEMBUAT DESCRIPTION LIST] Ini adalah tampilan codingan awal untuk membuat description list pada dokumen HTML, Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
 
 ![Langkah 1](https://user-images.githubusercontent.com/59683573/114538177-4789f280-9c7d-11eb-937e-ff373a979f4d.png)
 
-[2] Hasil/Tampilan ketika dijalankan dibrowser
+2. Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat list dari codingan tersebut, Description List adalah list yang berisi definisi.
 
 ![Langkah 2](https://user-images.githubusercontent.com/59683573/114538256-5ec8e000-9c7d-11eb-808b-b944373927f1.png)
 
-[3] Ini adalah codingan untuk membuat web HTML
+3. [MEMBUAT TABLE] Ini adalah tampilan codingan awal untuk membuat table pada dokumen HTML, Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Kemudian tambahkan kode tersebut untuk membuat table seperti berikut.
 
 ![Langkah 3](https://user-images.githubusercontent.com/59683573/114538343-7dc77200-9c7d-11eb-801f-bd66e132cba7.png)
 
-[4] Hasil/Tampilan ketika dijalankan dibrowser
+4. Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat table dari codingan tersebut, Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal).
 
 ![Langkah 4](https://user-images.githubusercontent.com/59683573/114538450-9cc60400-9c7d-11eb-8495-84f82b85ad29.png)
 
-[5] Ini adalah codingan untuk membuat web HTML
+5. [MEMBUAT FORM] Ini adalah tampilan codingan awal untuk membuat FORM pada dokumen HTML.
 
 ![Langkah 5](https://user-images.githubusercontent.com/59683573/114538498-a8192f80-9c7d-11eb-9963-46c28e629897.png)
 
-[6] Hasil/Tampilan ketika dijalankan dibrowser
+6. Hasil/Tampilan ketika dijalankan dibrowser, maka terlihat form dari codingan tersebut, Form merupakan bagian pada HTML yang dapat digunakan untuk membuat elemen Form pada halaman Web dengan menggunakan elemen text box dan check box pada form.
 
 ![Langkah 6](https://user-images.githubusercontent.com/59683573/114538545-b404f180-9c7d-11eb-9cb0-33d7aa863c78.png)
 
