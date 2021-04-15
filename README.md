@@ -1,6 +1,8 @@
 # Lab3Web
 Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata kuliah Pemrograman Web
 
+[PRAKTIKUM 3 - PEMROGRAMAN WEB] RANDI SAEPUDIN KUSMAYADI - 311910769 - TI.19-A3
+
 1. [MEMBUAT DESCRIPTION LIST] Ini adalah tampilan codingan awal untuk membuat description list pada dokumen HTML, Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
 
 ![Langkah 1](https://user-images.githubusercontent.com/59683573/114538177-4789f280-9c7d-11eb-937e-ff373a979f4d.png)
@@ -9,7 +11,7 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 
 ![Langkah 2](https://user-images.githubusercontent.com/59683573/114538256-5ec8e000-9c7d-11eb-808b-b944373927f1.png)
 
-3. [MEMBUAT TABLE] Ini adalah tampilan codingan awal untuk membuat table pada dokumen HTML, Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Kemudian tambahkan kode tersebut untuk membuat table seperti berikut.
+3. [MEMBUAT TABLE] Ini adalah tampilan codingan awal untuk membuat table pada dokumen HTML, Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Kemudian tambahkan kode tersebut untuk membuat table seperti berikut :
 
 ![Langkah 3](https://user-images.githubusercontent.com/59683573/114538343-7dc77200-9c7d-11eb-801f-bd66e132cba7.png)
 
@@ -29,7 +31,7 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mata k
 Pertanyaan dan Tugas
 1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
-Berikut adalah tampilan langkah-langkah codingan untuk membuat web dengan HTML dan CSS
+Berikut adalah tampilan langkah-langkah codingan untuk membuat web dengan HTML dan CSS :
 
 Langkah 1;
 
@@ -48,7 +50,7 @@ Langkah 4;
 ![Langkah 10](https://user-images.githubusercontent.com/59683573/114572937-212a7e00-9ca2-11eb-9b4b-2f023be7a4e1.png)
 
 
-Berikut Hasil/Tampilan ketika dijalankan dibrowser;
+Berikut Hasil/Tampilan ketika dijalankan dibrowser :
 
 [1] Hasil/Tampilan akhir dari codingan tersebut ketika dijalankan dibrowser!
 
@@ -74,18 +76,4 @@ Berikut Hasil/Tampilan ketika dijalankan dibrowser;
 
 ![Langkah 16](https://user-images.githubusercontent.com/59683573/114574948-e9243a80-9ca3-11eb-8a5c-f9dbe192b923.png)
 
-
-Sekian & Terima kasih.
-
-
-NIM             : 311910769
-
-Kelas           : TI.19-A3
-
-Nama Mahasiswa  : Randi Saepudin Kusmayadi
-
-Dosen Pengampu  : Agung Nugroho, S.Kom., M.Kom.
-
-Matakuliah      : Pemrograman Web
-
-Prodi/Semester  : Teknik Informatika/4
+[SELESAI]
